@@ -1,0 +1,22 @@
+{
+  "name": "picidae-transformer-medium-image",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "picidae": "^2.2.6"
+  },
+  "keywords": [
+    "imcuttle",
+    "picidae-transformer-medium-image"
+  ],
+  "author": "imcuttle",
+  "license": "MIT",
+  "dependencies": {
+    "picidae-transformer-medium-image-progressive": "^0.0.1",
+    "picidae-transformer-medium-image-zoom": "^1.0.2"
+  }
+}
