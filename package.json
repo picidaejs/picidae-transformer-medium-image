@@ -16,7 +16,7 @@
   "author": "imcuttle",
   "license": "MIT",
   "dependencies": {
-    "picidae-transformer-medium-image-progressive": "^1.0.1",
+    "picidae-transformer-medium-image-progressive": "^1.0.2",
     "picidae-transformer-medium-image-zoom": "^1.0.2"
   }
 }
